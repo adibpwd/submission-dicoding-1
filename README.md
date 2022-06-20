@@ -1,16 +1,8 @@
-# test_dicoding
+Preview my submission app :
 
-A new Flutter project.
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/54851209/174595223-0f139a7b-18fa-4267-af3c-3b77485bd9ed.gif)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Thanks to :
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://dribbble.com/shots/12028424-Breathe-App/attachments/3657954?mode=media
