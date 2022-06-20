@@ -4,6 +4,12 @@
 
 ![viewappdicoding](https://user-images.githubusercontent.com/54851209/174612568-5ab260b9-2c5f-470f-93ca-f7366939966e.gif)
 
+#### Some code reviews from DiCoding that I got :
+
+* use /// not // to add comments. reference : https://dart-lang.github.io/linter/lints/slash_for_doc_comments.html
+* unused comment code removed, so my code is cleaner
+* don't use ignore code comment : , so I can know the warning code
+* try on several devices to see if something overflows or not
 
 #### My inspiration design :
 Thanks to Allaam Naufal
