@@ -1,13 +1,8 @@
 import 'dart:async';
 import 'dart:developer';
-
 import 'package:flutter/material.dart';
-// import 'package:flutter/src/foundation/key.dart';
-// import 'package:flutter/src/widgets/framework.dart';
-
 import '../components/list_tile_custom.dart';
 
-// ignore: must_be_immutable
 class Home extends StatefulWidget {
   const Home({Key? key}) : super(key: key);
 
@@ -88,8 +83,7 @@ class _HomeState extends State<Home> {
                             _timer =
                                 Timer(const Duration(milliseconds: 500), () {
                               resultSearch = [];
-                              // ignore: avoid_function_literals_in_foreach_calls
-                              listLesson.forEach((lesson) {
+                              for (var lesson in listLesson) {
                                 log(lesson['title'].toLowerCase() +
                                     " == " +
                                     value.toLowerCase());
@@ -100,7 +94,7 @@ class _HomeState extends State<Home> {
                                     resultSearch.add(lesson);
                                   });
                                 }
-                              });
+                              }
                             });
                           },
                           decoration: InputDecoration(

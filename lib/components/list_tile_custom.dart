@@ -1,11 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:test_dicoding/screens/detail_lesson.dart';
-// import 'package:flutter/src/foundation/key.dart';
-// import 'package:flutter/src/widgets/framework.dart';
-// import 'package:flutter/widgets.dart';
 
 class ListTileCustom extends StatefulWidget {
-  // ignore: prefer_const_constructors_in_immutables
   ListTileCustom({
     Key? key,
     required this.data,

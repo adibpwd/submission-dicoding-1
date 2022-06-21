@@ -5,10 +5,6 @@ void main() {
   runApp(const MyApp());
 }
 
-// My Inspiration
-// Thanks Allaam Naufal ( teman satu pondok seorang ui/ux )
-// https://dribbble.com/shots/12028424-Breathe-App/attachments/3657954?mode=media
-
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
   @override
